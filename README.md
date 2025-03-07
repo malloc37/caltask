@@ -1,5 +1,7 @@
 # Caltask - Task & Calendar Management Web Application
 
+![Caltask Overview](assets/caltask_overview.png)
+
 Caltask is a modern web application that helps users manage their tasks and schedule them efficiently using a calendar interface. The application features drag-and-drop functionality, integration with external calendars, and persistent backend storage.
 
 ## Features
